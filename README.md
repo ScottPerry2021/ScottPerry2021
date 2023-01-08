@@ -5,13 +5,20 @@
 - like: https://codepen.io/sperry0409/pen/xxgPJYM/c180845c15651de5a943b30e4d39936e.
 - like: 
 
-- 👀 I’m interested in ...Mobile App Develpment and Design related to small to medium size companies.
-- 🌱 I’m currently learning ...Flutter and Dart; your stack is of interest to me, anything related to software and A.I. learning is something I'm like to learn more about in my process and journwy to be a flexible software developer and designer.
+- 👀 I’m interested in ...helping and supporting solid team focused projects and clean software development. I am inspired by Mobile App Develpment, 
+- especially related to start up and medium size companies. Ready to help build, maintain, or scale up; one at a time or all at once, I am familiar with both styles of buisness logic.
+- 🌱 I’m currently learning / building with ...Flutter and Dart; your stack is of interest to me, anything related to software and A.I. machine learning is something I'm like to learn more about as my future unfolds; in my process or journwy to be a more flexible software developer and designer. I have a background in Fine art specifically photography, art history, painting, and printmaking. Now in the digial age I also aquired a Business Masters with a focue on digital marketing and the need for small to medium agriculture related businesses are becoming more sucessful through the implemtation of current technologies, i.e. Namo-brewery, Food Truck(s), In house Coffee Roaster cafe(s), podcast(s), Family owned wineries, and digital nomadic work life balance.
 
 
-- 💞️ I’m looking to collaborate on ...Housing4You type projects and spotify playlists.
-- 📫 How to reach me ...My first web page or scottsamuelperry@gmail.com or upwork profile available for contract and consulting remote or hybrid.
--
+- 💞️ I’m looking to collaborate on ...Amazon-clone, type projects and spotify "clone" REACT JS or iOS Swift or Flutter/Dart; or work music playlists.
+- 📫 How to reach me ...My first web page (in progress working on "upgraded to multi-platform")or scottsamuelperry@gmail.com or upwork profile 
+- available for contract and consulting remote or hybrid.
+-Top % Favorite Programming software:
+🐦 Swift
+🕸 Javascript
+🎯 Dart
+☕️ Java
+🐍 Python
 
 https://github.com/ScottPerry2021/Glia-Health-Mobile-App-Project
 
