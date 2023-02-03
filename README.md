@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @ScottPerry2021, 
+- 👋 Hi, I’m @ScottPerry2021, wwww.scottcancode.com
 
 - I like social media platforms like: https://twitter.com/home and music playlists https://open.spotify.com/
 - Projects:
 - like: https://codepen.io/sperry0409/pen/xxgPJYM/c180845c15651de5a943b30e4d39936e.
-- like: 
+- like: https://codepen.io/sperry0409/pen/WNjRRwa
+- like: https://codepen.io/sperry0409/pen/VwpEwez
+- like: https://codepen.io/sperry0409/pen/VwpGRJE
+- like: https://codepen.io/sperry0409/pen/wvJxyjY
+- like: https://codepen.io/sperry0409/pen/vYxdbMo
 
 - 👀 I’m interested in ...helping and supporting solid team focused projects and clean software development. I am inspired by Mobile App Develpment, 
 - especially related to start up and medium size companies. Ready to help build, maintain, or scale up; one at a time or all at once, I am familiar with both styles of buisness logic.
