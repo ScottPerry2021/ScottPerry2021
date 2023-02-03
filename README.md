@@ -7,12 +7,20 @@
 
 - 👀 I’m interested in ...helping and supporting solid team focused projects and clean software development. I am inspired by Mobile App Develpment, 
 - especially related to start up and medium size companies. Ready to help build, maintain, or scale up; one at a time or all at once, I am familiar with both styles of buisness logic.
-- 🌱 I’m currently learning / building with ...Flutter and Dart; your stack is of interest to me, anything related to software and A.I. machine learning is something I'm like to learn more about as my future unfolds; in my process or journey to be a more flexible software developer and designer. I have a background in Fine art specifically photography, art history, painting, and printmaking. Now in the digital age I also acquired a Business Masters with a focus on digital marketing and the need for small to medium agriculture related businesses are becoming more successful through the implementation of current technologies, i.e. Nano-brewery, Food Truck(s), In house Coffee Roaster cafe(s), podcast(s), Family owned wineries, and digital nomadic work life balance.
+- 🌱 I’m currently learning / building with ...Flutter and Dart; your stack is of interest to me, anything related to new software trends and tech upgrades.
 
 
-- 💞️ I’m looking to collaborate on ...Amazon-clone, type projects and spotify "clone" REACT JS or iOS Swift or Flutter/Dart; or work music playlists.
-- 📫 How to reach me ...My first web page (in progress working on "upgraded to multi-platform")or scottsamuelperry@gmail.com or upwork profile 
-- available for contract and consulting remote or hybrid.
+- 💞️ I’m looking to collaborate on ...YouTube, clones, projects with challenges and spotify framework, REACT JS 
+- or iOS Swift/Android play 
+- or Flutter/Dart; or "work" music playlist(s)
+
+
+- 📫 scottsamuelperry@gmail.com or www.scottcancode.com
+
+
+- Currently, available for contract and consulting (remote or hybrid): Ready to help solve your problems and help upgrade your systems or content.
+
+
 -Top % Favorite Programming software:
 🐦 Swift
 🕸 Javascript
@@ -23,11 +31,20 @@
 https://github.com/ScottPerry2021/Glia-Health-Mobile-App-Project
 
 check out these websites:
+
 https://www.youtube.com/watch?v=sWqDIZxO-nU&t=1142s
+
 https://www.youtube.com/watch?v=vkLOg252KRE 
 
+https://www.youtube.com/watch?v=LxsLFoxYhu0
 
+https://www.youtube.com/watch?v=y9qjjfurCP0
 
+https://www.youtube.com/watch?v=EenKE170USA
+
+https://www.youtube.com/watch?v=6N_KhbAWwvo&t=698s
+
+https://www.youtube.com/watch?v=UzTYV1bbARE
 
 
 
