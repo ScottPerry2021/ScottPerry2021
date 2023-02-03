@@ -23,9 +23,7 @@
 
 
 - Currently, available for contract and consulting (remote or hybrid): Ready to help solve your problems and help upgrade your systems or content.
-
-
--Top % Favorite Programming software:
+-Favorite Programming software:
 🐦 Swift
 🕸 Javascript
 🎯 Dart
