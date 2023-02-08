@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ScottPerry2021, wwww.scottcancode.com
 
+https://scottsamuelperry.myportfolio.com/
+
 - I like social media platforms like: https://twitter.com/home and music playlists https://open.spotify.com/
 - Projects:
 - like: https://codepen.io/sperry0409/pen/xxgPJYM/c180845c15651de5a943b30e4d39936e.
