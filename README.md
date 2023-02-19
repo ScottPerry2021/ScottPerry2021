@@ -2,6 +2,9 @@
 
 https://scottsamuelperry.myportfolio.com/
 
+https://docs.google.com/document/d/e/2PACX-1vT80CoqVzxOthkXzEPKCix9N42p5ZaZ9DCy4nRcgiEKZkM8F7TOG3rUd743bSRYK67_Q0LhZST2apJR/pub
+
+
 - I like social media platforms like: https://twitter.com/home and music playlists https://open.spotify.com/
 - Projects:
 - like: https://codepen.io/sperry0409/pen/xxgPJYM/c180845c15651de5a943b30e4d39936e.
