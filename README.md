@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @ScottPerry2021, wwww.scottcancode.com
+- 👋 Hi, I’m @ScottPerry2021, 
+\\ https://scottsamuelperry46e5.myportfolio.com
 
+Exp. Creative Content / Design
 https://scottsamuelperry.myportfolio.com/
 
 https://docs.google.com/document/d/e/2PACX-1vT80CoqVzxOthkXzEPKCix9N42p5ZaZ9DCy4nRcgiEKZkM8F7TOG3rUd743bSRYK67_Q0LhZST2apJR/pub
